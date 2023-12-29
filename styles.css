@@ -1,0 +1,54 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+
+.roll{
+    text-align: center;
+    display: inline-block;
+}
+
+
+h1{
+    margin: 30px;
+    font-size: 8rem;
+    font-family: 'Single Day', cursive;
+    color: #AC87C5;
+    text-shadow: 5px 0 #756AB6;
+
+}
+
+body{
+    background-color: #FFE5E5;
+}
+
+
+p{
+    font-size: 3rem;
+    font-family: 'Single Day', cursive;
+    color: #756AB6;
+    padding: 0;
+    margin: 20px;
+}
+
+img{
+    width: 300px;
+    padding: 40px;
+}
+
+footer{
+    text-align: center;
+    padding: auto;
+    margin: 5% auto;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1rem;
+    color: #8b66668f;
+    font-weight: bold;
+    
+    
+    
+    
+}
+
